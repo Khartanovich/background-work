@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BackgroundWorks</string>
+    <string name="turn_on_the_alarm">turn on the alarm</string>
+    <string name="time_after_sunrise">Time after sunrise</string>
+    <string name="turn_of_the_alarm">turn of the alarm</string>
+</resources>
